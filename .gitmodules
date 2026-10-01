@@ -1,0 +1,3 @@
+[submodule "ec2-legacy-app"]
+	path = ec2-legacy-app
+	url = https://github.com/codercohq/ec2-legacy-app.git
